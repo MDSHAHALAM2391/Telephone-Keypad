@@ -1,0 +1,17 @@
+body{
+    text-size-adjust: 10px;
+  }
+  
+   button{
+       width: 100px;
+       height: 65px;
+       margin:0px;
+       margin-top: -12px;
+       font-size: 17px;
+
+   }
+    
+  input{
+    height: 40px;
+    width: 307px;
+  }
